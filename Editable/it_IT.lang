@@ -1,0 +1,68 @@
+﻿### Solar Expansion Italian Localization File ###
+
+itemGroup.solarexpansion=Solar Expansion
+
+tile.solarexpansion:solarPanelT1.name=Pannello Solare [Livello 1]
+tile.solarexpansion:solarPanelT2.name=Pannello Solare [Livello 2]
+tile.solarexpansion:solarPanelT3.name=Pannello Solare [Livello 3]
+tile.solarexpansion:solarPanelT4.name=Pannello Solare [Livello 4]
+tile.solarexpansion:solarPanelT5.name=Pannello Solare [Livello 5]
+tile.solarexpansion:solarPanelT6.name=Pannello Solare [Livello 6]
+tile.solarexpansion:solarPanelT7.name=Pannello Solare [Livello 7]
+tile.solarexpansion:solarPanelT8.name=Pannello Solare [Livello 8]
+tile.solarexpansion:solarPanelT9.name=Pannello Solare [Livello 9]
+tile.solarexpansion:solarPanelT10.name=Pannello Solare [Livello 10]
+tile.solarexpansion:solarPanelT11.name=Pannello Solare [Livello 11]
+tile.solarexpansion:solarPanelT12.name=Pannello Solare [Livello 12]
+tile.solarexpansion:solarPanelT13.name=Pannello Solare [Livello 13]
+tile.solarexpansion:solarPanelT14.name=Pannello Solare [Livello 14]
+tile.solarexpansion:solarPanelT15.name=Pannello Solare [Livello 15]
+tile.solarexpansion:solarPanelT16.name=Pannello Solare [Livello 16]
+
+item.solarexpansion:solarCoreT1.name=Nucleo Solare [Livello 1]
+item.solarexpansion:solarCoreT2.name=Nucleo Solare [Livello 2]
+item.solarexpansion:solarCoreT3.name=Nucleo Solare [Livello 3]
+item.solarexpansion:solarCoreT4.name=Nucleo Solare [Livello 4]
+item.solarexpansion:solarCoreT5.name=Nucleo Solare [Livello 5]
+item.solarexpansion:solarCoreT6.name=Nucleo Solare [Livello 6]
+item.solarexpansion:solarCoreT7.name=Nucleo Solare [Livello 7]
+item.solarexpansion:solarCoreT8.name=Nucleo Solare [Livello 8]
+item.solarexpansion:solarCoreT9.name=Nucleo Solare [Livello 9]
+item.solarexpansion:solarCoreT10.name=Nucleo Solare [Livello 10]
+item.solarexpansion:solarCoreT11.name=Nucleo Solare [Livello 11]
+item.solarexpansion:solarCoreT12.name=Nucleo Solare [Livello 12]
+item.solarexpansion:solarCoreT13.name=Nucleo Solare [Livello 13]
+item.solarexpansion:solarCoreT14.name=Nucleo Solare [Livello 14]
+item.solarexpansion:solarCoreT15.name=Nucleo Solare [Livello 15]
+item.solarexpansion:solarCoreT16.name=Nucleo Solare [Livello 16]
+
+item.solarexpansion:photovoltaicCellT1.name=Cella Fotovoltaica [Livello 1]
+item.solarexpansion:photovoltaicCellT2.name=Cella Fotovoltaica [Livello 2]
+item.solarexpansion:photovoltaicCellT3.name=Cella Fotovoltaica [Livello 3]
+item.solarexpansion:photovoltaicCellT4.name=Cella Fotovoltaica [Livello 4]
+item.solarexpansion:photovoltaicCellT5.name=Cella Fotovoltaica [Livello 5]
+item.solarexpansion:photovoltaicCellT6.name=Cella Fotovoltaica [Livello 6]
+item.solarexpansion:photovoltaicCellT7.name=Cella Fotovoltaica [Livello 7]
+item.solarexpansion:photovoltaicCellT8.name=Cella Fotovoltaica [Livello 8]
+item.solarexpansion:photovoltaicCellT9.name=Cella Fotovoltaica [Livello 9]
+item.solarexpansion:photovoltaicCellT10.name=Cella Fotovoltaica [Livello 10]
+item.solarexpansion:photovoltaicCellT11.name=Cella Fotovoltaica [Livello 11]
+item.solarexpansion:photovoltaicCellT12.name=Cella Fotovoltaica [Livello 12]
+item.solarexpansion:photovoltaicCellT13.name=Cella Fotovoltaica [Livello 13]
+item.solarexpansion:photovoltaicCellT14.name=Cella Fotovoltaica [Livello 14]
+item.solarexpansion:photovoltaicCellT15.name=Cella Fotovoltaica [Livello 15]
+item.solarexpansion:photovoltaicCellT16.name=Cella Fotovoltaica [Livello 16]
+
+info.shad0wb1ade.solarexpansion.solarpanel.generation=Generazione
+info.shad0wb1ade.solarexpansion.solarpanel.transfer=Transferimento
+info.shad0wb1ade.solarexpansion.solarpanel.capacity=Capacita'
+
+info.shad0wb1ade.solarexpansion.items.components=E' solo un componente per la crafting.
+
+info.shad0wb1ade.solarexpansion.shiftkey.hold=Tieni premuto
+info.shad0wb1ade.solarexpansion.shiftkey=Shift
+info.shad0wb1ade.solarexpansion.shiftkey.down=per Dettagli
+
+info.shad0wb1ade.solarexpansion.controlkey.hold=Tieni premuto
+info.shad0wb1ade.solarexpansion.controlkey=Control
+info.shad0wb1ade.solarexpansion.controlkey.down=per Dettagli
